@@ -2,16 +2,16 @@
 
 Learning git and using GitHub is just more fun with cats!
 
-## Purrr (Pull)
+## Purrr
 
-![alt text](https://girliemac.com/assets/images/articles/2017/12/git-purr.jpg "git purr")
+Here's an image of how to [pull](https://girliemac.com/assets/images/articles/2017/12/git-purr.jpg). 
 
-## Meowge (Merge)
+## Meowge
 
-![alt text](https://girliemac.com/assets/images/articles/2017/12/git-meowge.jpg "git merge")
+Here's an image of how to [merge and rebase](https://girliemac.com/assets/images/articles/2017/12/git-meowge.jpg). 
 
-## Pusss (Push)
+## Pusss
 
-![alt text](https://girliemac.com/assets/images/articles/2017/12/git-puss.jpg "git push")
+Here's an image of how to [push](https://girliemac.com/assets/images/articles/2017/12/git-puss.jpg).
 
 Credit: [https://girliemac.com/blog/2017/12/26/git-purr/](https://girliemac.com/blog/2017/12/26/git-purr/)
